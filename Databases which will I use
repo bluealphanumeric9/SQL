@@ -1,0 +1,21 @@
+I will be mainly working with the sample data bases from the internet - HR database ( can be found on GitHub) as well as world and sakila databases.
+Most of the questions and queries I will present are from various websites for SQL training (W3 schools, W3 resuorces) but also from some books I have read. In most cases I will make notes about from where I got those resources. 
+
+Basic SQL statements, and present in 99% of all queries are
+
+select ...
+
+
+from ...
+
+
+where...
+
+group by ....
+
+order by...
+
+limit ... 
+
+and the variations of it. 
+
